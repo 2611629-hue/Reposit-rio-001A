@@ -14,4 +14,15 @@ print('O seu dominio é ', dominio)
 email = nome + '@' + dominio
 print('Seu e-mail é: ', email)
 
+palavra = "CUIDADO"
+#colocar a string como toda maiuscula
+print('Colocando o texto em maiuscula: ',palavra.upper())
+
+PALAVRA = 'CUIDADO'
+#Colocar a string como toda minuscula: ', PALAVRA.lower())
+
+:!python.entrada.py < inputs_python.CUIDADO
+
+
+
 
